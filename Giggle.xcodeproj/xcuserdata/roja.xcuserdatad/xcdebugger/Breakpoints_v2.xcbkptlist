@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EE061D88-43A1-484F-9D4E-2F5AAA57755F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BA16A144-1D73-4933-8C47-9724A2FE6641"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Giggle/ViewModel/GiggleViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "getViewModel(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BA16A144-1D73-4933-8C47-9724A2FE6641 - 987338f74913f43"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Giggle.GiggleViewModel.getViewModel(completion: (Swift.Optional&lt;Giggle.GiggleModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Giggle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/roja/Downloads/Giggle/Giggle/ViewModel/GiggleViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  uuid = "BA16A144-1D73-4933-8C47-9724A2FE6641 - d12aaf784f165e63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Giggle.GiggleModel) -&gt; () in Giggle.GiggleViewModel.getViewModel(completion: (Swift.Optional&lt;Giggle.GiggleModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Giggle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/roja/Downloads/Giggle/Giggle/ViewModel/GiggleViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "33DC57C7-8C46-42CB-B294-605D9B95C6E2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Giggle/ViewModel/GiggleViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "getViewModel(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "073BA098-E39E-4BC4-A800-9DF82D6E1590"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Giggle/Service/GiggleDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getGiggleDataManager(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
