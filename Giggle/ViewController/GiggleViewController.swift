@@ -22,8 +22,7 @@ class GiggleViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        
-        
+        descTextView.text = "Time waits for no man. Unless that man is Chuck Norris."
     }
     // Create the nxt joke function.
     @IBAction func setUpJoke() {

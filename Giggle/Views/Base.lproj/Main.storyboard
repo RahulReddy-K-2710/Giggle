@@ -43,7 +43,7 @@
                                     <action selector="previousJoke" destination="BYZ-38-t0r" eventType="touchUpInside" id="kKG-35-Qz6"/>
                                 </connections>
                             </button>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" text="Time waits for no man. Unless that man is Chuck Norris." textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="ij5-cM-kDI">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="ij5-cM-kDI">
                                 <rect key="frame" x="57" y="391" width="300" height="128"/>
                                 <color key="backgroundColor" red="1" green="0.5607843137254902" blue="0.69411764705882351" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
